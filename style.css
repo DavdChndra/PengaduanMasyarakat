@@ -1,0 +1,20 @@
+.link:hover {
+  font-weight: bold;
+}
+
+.admin {
+  background-color: #fec260;
+  width: 80px;
+  text-align: center;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-right: 20px;
+}
+
+.admin:hover {
+  font-weight: bold;
+}
+
+.pengaduan {
+  padding-top: 20px;
+}
